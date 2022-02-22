@@ -1,0 +1,61 @@
+.background-color{
+    background-color: rgba(70, 127, 180, 0.418);
+}  
+.bg1{
+    background-color: rgb(24, 24, 100);
+} 
+.bg2{
+    background-color: rgb(55, 194, 113);
+} 
+.bg3{
+    background-color: bisque;
+}
+.kotak0{
+    width: 100%;
+    height: 100vh;
+}  
+.kotak1{
+    width: 80%;
+    height: 5vh;
+} 
+.kotak2{
+    width: 30%;
+    height: 5vh;
+} 
+.kotak3{
+    width: 5%;
+    height: 3vh;
+}
+.kotak4{
+    width: 55%;
+    height: 80vh;
+} 
+.kotak5{
+    width: 40%;
+    height: 15vh; 
+} 
+.kotak6{
+    width: 45%;
+    height: 10vh;
+} 
+.kotak7{
+    width: 25%;
+    height: 7vh;
+} 
+.kotak8{
+    width: 35%;
+    height: 5vh;
+} 
+.kotak9{
+    width: 45%;
+    height: 80vh;
+} 
+.kotak10{
+    width: 20%;
+    height: 70vh;
+}
+.container1{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+}

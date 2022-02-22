@@ -1,0 +1,73 @@
+.kotak1{
+    width: 100%; 
+    height: 20vh; 
+    /* margin: 1%; */
+}  
+.kotak2{
+    width: 48%; 
+    height: 70vh; 
+    margin: 1%;
+}  
+.kotak3{
+    width:48%; 
+    height: 70vh;  
+    display: flex;
+    flex-direction: column; 
+    margin: 1%;
+}  
+.kotak4{
+    width: 100%; 
+    height: 35vh; 
+    margin: 1%;
+}   
+.kotak5{
+    width: 100%; 
+    height: 15vh; 
+    margin: 1%;
+}  
+.kotak6{
+    width: 98%;
+    height: 100vh;
+    margin: 1%; 
+    display: flex;
+    flex-direction: column;
+}
+.background-color{
+    background-color: deeppink;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+} 
+
+.bg-1{
+    background-color: yellowgreen;
+}
+
+.bg-2{
+    background-color: blue;
+}
+
+.bg-3{
+    background-color: rgb(16, 246, 169);
+}
+.bg-4{
+    background-color: coral;
+}  
+.bg-5{
+    background-color: darkmagenta;
+}
+
+.middle-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.container2{ 
+    display: flex;
+    flex-direction: column;
+} 
